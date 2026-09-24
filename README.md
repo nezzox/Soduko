@@ -1,4 +1,4 @@
-# Soduko
+# Sudoku
 
 Svenskt Sudoku med Mini (6×6, 2×3-block) och Utmanaren (9×9, 3×3-block), slumpade pussel med unik lösning, tidtagning och separata gemensamma topp 10-listor.
 
